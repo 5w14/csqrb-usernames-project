@@ -1650,5 +1650,19 @@
     "made_by_csqrb": true,
     "opinion": "😀",
     "comment": "хэллоунский никнейм"
+  },
+    {
+    "username": "required",
+    "accepted": false,
+    "made_by_csqrb": false,
+    "opinion": "😡",
+    "comment": ""
+  },
+  {
+    "username": "Зашквар",
+    "accepted": false,
+    "made_by_csqrb": false,
+    "opinion": "😡",
+    "comment": ""
   }
 ]
